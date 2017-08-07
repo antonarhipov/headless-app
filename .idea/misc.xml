@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ASMPluginConfiguration">
+    <asm skipDebug="false" skipFrames="false" skipCode="false" expandFrames="false" />
+    <groovy codeStyle="LEGACY" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/tmp/lll/my-first-system" value="1461748544000" />
+        <entry key="$USER_HOME$/tmp/multi" value="1452991407000" />
+        <entry key="$USER_HOME$/tmp/my-first-system" value="1458948729000" />
+        <entry key="$PROJECT_DIR$/../akka" value="62038133298000" />
+        <entry key="$PROJECT_DIR$/../build-tools-battle/build-battle-parent" value="1460566293000" />
+        <entry key="$PROJECT_DIR$/../build-tools-battle/build-battle-parent-template" value="1460580023000" />
+        <entry key="$PROJECT_DIR$/../spark-hello" value="1469104002000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
